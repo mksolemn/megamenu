@@ -1,0 +1,45 @@
+
+Assessment Test Instructions
+----------------------------
+
+The task before you is to code the markup of a mega drop-down menu design using valid HTML5/CSS3.
+The design is featured in the file named "mega-dropdown.png". It depicts a 'hover' state of the
+"Products" menu item of some main navigation.  
+
+1. Your main goal is to end up with a working version of this menu - a primary navigation that reveals 
+a mega drop-down menu when the user hovers over the "Products" item. The menu should be positioned
+center top of the viewport.
+
+2. A secondary goal is for you to come up with a mobile responsive version of this navigation. No design
+exists for the responsive state, so it will be up to you to decide which elements you need to include
+there using today's mobile best practices. Keep it simple and mind the semantic markup.   
+
+
+
+Additional points will be given:
+
+-	if you enrich the menu with just the right amount of bling using CSS3 transitions/animations :) 
+
+
+Other notes: 
+
+-	All of the required imagery is located in the "assets" folder, but it is up to you to decide 
+	whether or not you need to modify it, for example constructing a sprite etc.
+
+-	For the desktop version, the markup should be compatible with IE9+
+
+-	As far as mobile goes, our team will check the markup using Chrome dev tools in mobile mode
+ 	set to iPhone 6 and iPad, so there is absolutely no need to go overboard with the responsive version. 
+
+-	Since you'll be working with a preview file instead of Photoshop project files, 
+	pixel perfection (in regards to correct font sizes, colors, dimensions etc.) is not imperative, 
+	but we do expect you to keep it as close as possible.
+
+-	The fonts being used belong to the Open Sans family and are freely available online. 
+	Choose any of the available embedding options and use this font family in the assessment.
+
+-	Should you require any JavaScript in the assessment, please keep to vanilla JS only. 
+
+
+Good luck!
+	
